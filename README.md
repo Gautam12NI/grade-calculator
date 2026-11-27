@@ -8,4 +8,4 @@ python grade.py 78
 
 ## Grading scale
 
-Grading scale: A (90+), B (75+), C (60+), D (40+), F below 40.
+Lenient scale: A (85+), B (70+), C (55+), D (35+), F below 35.

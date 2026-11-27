@@ -8,4 +8,4 @@ python grade.py 78
 
 ## Grading scale
 
-Grading scale: A (90+), B (75+), C (60+), D (40+), F below 40.
+Strict scale: A (90+), B (80+), C (70+), D (50+), F below 50.
